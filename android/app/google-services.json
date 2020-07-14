@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241428985088",
+    "firebase_url": "https://loja-virtual-1854e.firebaseio.com",
+    "project_id": "loja-virtual-1854e",
+    "storage_bucket": "loja-virtual-1854e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241428985088:android:400a5252e0436d8a432fe5",
+        "android_client_info": {
+          "package_name": "br.com.gramacho.loja_Teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241428985088-c17nra0ke7pnpnv81gmdsopkvr6u4ksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPd07nXhgNdM7k387j48ICCSVx3UYsWao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241428985088-c17nra0ke7pnpnv81gmdsopkvr6u4ksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
